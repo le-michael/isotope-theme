@@ -1,0 +1,21 @@
+{
+    "name": "isotope-theme",
+    "displayName": "isotope-theme",
+    "description": "Neon on black.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Isotope Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Isotope Theme-color-theme.json"
+            }
+        ]
+    }
+}
