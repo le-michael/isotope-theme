@@ -2,9 +2,9 @@
   "publisher": "le-michael",
   "repository": "https://github.com/le-michael/isotope-theme",
   "name": "isotope-theme",
-  "displayName": "isotope-theme",
+  "displayName": "Isotope Theme",
   "description": "Neon on black.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.60.0"
   },
