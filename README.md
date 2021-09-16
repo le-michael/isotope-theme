@@ -1,5 +1,9 @@
 # Isotope Theme
 
+### Modify
+
+You can fork and modify the theme at: https://themes.vscode.one/theme/michael/OfpTYFsC
+
 ### Screenshots
 
 ![image](https://user-images.githubusercontent.com/13042828/133381543-fe8d861d-c272-4f34-b487-a418194583e4.png)
